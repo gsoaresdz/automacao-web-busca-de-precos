@@ -10,8 +10,8 @@
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requerimentos">Requerimentos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-execucao">Execução</a> &#xa0; | &#xa0;
-  <a href="#memo-licenca">Licença</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-execução">Execução</a> &#xa0; | &#xa0;
+  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/gsoaresdz" target="_blank">Autor</a>
 </p>
 <br>
@@ -65,7 +65,7 @@ A segunda parte do código automatiza a busca de preços para os produtos do arq
 
 :heavy_check_mark: **Feature 2**: Coleta os preços dos produtos nas páginas acessadas.
 
-:heavy_check_mark: **Feature 3**: Armazena os resultados em um arquivo Excel.\
+:heavy_check_mark: **Feature 3**: Armazena os resultados em um arquivo Excel.
 
 O código a seguir mostra como realizar uma busca e coletar o preço:
 
